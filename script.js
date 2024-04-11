@@ -87,7 +87,7 @@ fetch('data.json')
               $("#recipeText").empty();
               $("#recipeLabels").empty();
               $("#recipeDiv").css("display", "flex")
-              $("#photoDiv").show();
+              // $("#photoDiv").show();   ------------------------------------------------------------------------------------  uncomment when you have pictures
 
               // Recipe Labels 
               //----------------------------------------------------------------||
