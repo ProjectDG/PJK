@@ -318,7 +318,7 @@ fetch('data.json')
     // $("#btnDiv").show();
     // $(".drink-section-buttons").show();
     // title.innerText = "Rocco's Drink Recipes"
-    window.open("/index.html","_self");
+    window.open("https://projectdg.github.io/PJK/","_self");
   });
 
 

@@ -11,7 +11,7 @@
         font-size: 1.5vh;
         color: antiquewhite;
         text-align: center;
-        border: 10px inset rgb(25, 85, 104);
+        border: 5px inset rgb(25, 85, 104);
         background-color: rgb(38, 127, 154, .9);
         box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5), 0 0 5px rgba(0, 0, 0, 0.5), 0 0 5px rgba(0, 0, 0, 0.5);
         padding: 2%;
@@ -104,7 +104,7 @@
         padding: 0% 8%;
         font-size: 3vh;
         border-radius: 8%;
-        border: 8px inset rgb(25, 85, 104);
+        border: 4px inset rgb(25, 85, 104);
         box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5), 0 0 5px rgba(0, 0, 0, 0.5), 0 0 5px rgba(0, 0, 0, 0.5);
         color: antiquewhite;
         background-color: rgb(38, 127, 154, .9);
@@ -121,7 +121,7 @@
 
     .drink-recipe-buttons{
         width: 40vh;
-        height: 15vh;
+        height: 12vh;
         font-size: 2vh;
         border-radius: 4%;
     }
